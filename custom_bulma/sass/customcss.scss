@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Solid&display=swap');
+
+$family-sans-serif: "Londrina Solid";
+
+$black: #141313;
+$grey: #252323;
+$white: #ffffff;
+$pink: #f56476;
+$blue: #467599;
+$violet: #893168;
+
+$size-1: 8rem;
+$size-2: 4rem;
+$size-3: 2rem;
+$size-large: 2.5rem;
+$size-medium: 1.5rem;
+
+$primary: $pink;
+$link: $blue;
+$danger: $violet;
+
+$title-color: $black;
+$subtitle-color: $grey;
+$text: $grey;
+
+html {
+    scroll-behavior: smooth;
+    scroll-snap-type: mandatory;
+}
+
+@import "../node_modules/bulma/bulma.sass";

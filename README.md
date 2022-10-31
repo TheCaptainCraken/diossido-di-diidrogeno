@@ -16,4 +16,4 @@ Ci sono moltissime ottime ragioni per mettere al bando questa sostanza dannosa:
 
 ## Che cosa è il DHMO?
 
-Il DHMO o monossido di diidrogeno è una sostanza chimica che viene impiegata in moltissimi settori come la produzione di energia nucleare. Questa sostanza si può presentare in forma liquida, solida o anche gassosa e purtroppo non ha ne odore ne spore rendendo relativamente difficile la sua individuazione.
+Il DHMO o monossido di diidrogeno è una sostanza chimica che viene impiegata in moltissimi settori come la produzione di energia nucleare. Questa sostanza si può presentare in forma liquida, solida o anche gassosa e purtroppo non ha ne odore ne sapore rendendo relativamente difficile la sua individuazione.

@@ -1226,7 +1226,7 @@ a.box:active {
   .button.is-medium {
     font-size: 1.5rem; }
   .button.is-large {
-    font-size: 2.5rem; }
+    font-size: 2rem; }
   .button[disabled],
   fieldset[disabled] .button {
     background-color: #ffffff;
@@ -1275,7 +1275,7 @@ a.box:active {
   .buttons.are-medium .button:not(.is-small):not(.is-normal):not(.is-large) {
     font-size: 1.5rem; }
   .buttons.are-large .button:not(.is-small):not(.is-normal):not(.is-medium) {
-    font-size: 2.5rem; }
+    font-size: 2rem; }
   .buttons.has-addons .button:not(:first-child) {
     border-bottom-left-radius: 0;
     border-top-left-radius: 0; }
@@ -1499,7 +1499,7 @@ a.box:active {
   font-size: 1.5rem; }
 
 .content.is-large {
-  font-size: 2.5rem; }
+  font-size: 2rem; }
 
 .icon {
   align-items: center;
@@ -1809,7 +1809,7 @@ div.icon-text {
   .progress.is-medium {
     height: 1.5rem; }
   .progress.is-large {
-    height: 2.5rem; }
+    height: 2rem; }
 
 @keyframes moveIndeterminate {
   from {
@@ -2290,7 +2290,7 @@ a.tag:hover {
   .is-medium.input, .is-medium.textarea {
     font-size: 1.5rem; }
   .is-large.input, .is-large.textarea {
-    font-size: 2.5rem; }
+    font-size: 2rem; }
   .is-fullwidth.input, .is-fullwidth.textarea {
     display: block;
     width: 100%; }
@@ -2464,7 +2464,7 @@ a.tag:hover {
   .select.is-medium {
     font-size: 1.5rem; }
   .select.is-large {
-    font-size: 2.5rem; }
+    font-size: 2rem; }
   .select.is-disabled::after {
     border-color: #252323 !important;
     opacity: 0.5; }
@@ -2483,7 +2483,7 @@ a.tag:hover {
   .select.is-loading.is-medium:after {
     font-size: 1.5rem; }
   .select.is-loading.is-large:after {
-    font-size: 2.5rem; }
+    font-size: 2rem; }
 
 .file {
   align-items: stretch;
@@ -2659,7 +2659,7 @@ a.tag:hover {
     .file.is-medium .file-icon .fa {
       font-size: 21px; }
   .file.is-large {
-    font-size: 2.5rem; }
+    font-size: 2rem; }
     .file.is-large .file-icon .fa {
       font-size: 28px; }
   .file.has-name .file-cta {
@@ -2784,7 +2784,7 @@ a.tag:hover {
   .label.is-medium {
     font-size: 1.5rem; }
   .label.is-large {
-    font-size: 2.5rem; }
+    font-size: 2rem; }
 
 .help {
   display: block;
@@ -2921,7 +2921,7 @@ a.tag:hover {
       font-size: 1.5rem;
       padding-top: 0.375em; }
     .field-label.is-large {
-      font-size: 2.5rem;
+      font-size: 2rem;
       padding-top: 0.375em; } }
 
 .field-body .field .field {
@@ -2963,7 +2963,7 @@ a.tag:hover {
   .control.has-icons-left .input.is-large ~ .icon,
   .control.has-icons-left .select.is-large ~ .icon, .control.has-icons-right .input.is-large ~ .icon,
   .control.has-icons-right .select.is-large ~ .icon {
-    font-size: 2.5rem; }
+    font-size: 2rem; }
   .control.has-icons-left .icon, .control.has-icons-right .icon {
     color: #dbdbdb;
     height: 2.5em;
@@ -2992,7 +2992,7 @@ a.tag:hover {
   .control.is-loading.is-medium:after {
     font-size: 1.5rem; }
   .control.is-loading.is-large:after {
-    font-size: 2.5rem; }
+    font-size: 2rem; }
 
 /* Bulma Components */
 .breadcrumb {
@@ -3039,7 +3039,7 @@ a.tag:hover {
   .breadcrumb.is-medium {
     font-size: 1.5rem; }
   .breadcrumb.is-large {
-    font-size: 2.5rem; }
+    font-size: 2rem; }
   .breadcrumb.has-arrow-separator li + li::before {
     content: "\02192"; }
   .breadcrumb.has-bullet-separator li + li::before {
@@ -3317,7 +3317,7 @@ button.dropdown-item {
   .menu.is-medium {
     font-size: 1.5rem; }
   .menu.is-large {
-    font-size: 2.5rem; }
+    font-size: 2rem; }
 
 .menu-list {
   line-height: 1.25; }
@@ -3361,7 +3361,7 @@ button.dropdown-item {
   .message.is-medium {
     font-size: 1.5rem; }
   .message.is-large {
-    font-size: 2.5rem; }
+    font-size: 2rem; }
   .message.is-white {
     background-color: white; }
     .message.is-white .message-header {
@@ -4354,7 +4354,7 @@ a.navbar-item,
   .pagination.is-medium {
     font-size: 1.5rem; }
   .pagination.is-large {
-    font-size: 2.5rem; }
+    font-size: 2rem; }
   .pagination.is-rounded .pagination-previous,
   .pagination.is-rounded .pagination-next {
     padding-left: 1em;
@@ -4735,7 +4735,7 @@ label.panel-block {
   .tabs.is-medium {
     font-size: 1.5rem; }
   .tabs.is-large {
-    font-size: 2.5rem; }
+    font-size: 2rem; }
 
 /* Bulma Grid */
 .column {
